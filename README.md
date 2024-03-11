@@ -1,5 +1,7 @@
 # ARM-Machines-Instructions
 
+<img width="1440" alt="ARM-Machines-Instructions" src="https://github.com/rashres/ARM-Machines-Instructions/assets/161265688/f0e698c2-f330-403a-b6c7-1c9058a8111b">
+
 UI Development:
 
 Create a graphical user interface using Java that features input fields for users to enter ARM mnemonic instructions.
