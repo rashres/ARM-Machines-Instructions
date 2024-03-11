@@ -1,6 +1,9 @@
 # ARM-Machines-Instructions
 
+Wrote a Java project with a GUI that allows a user to encode and decodethe sixteen ARM7 instructions described for sixteen registers.
+
 <img width="1440" alt="ARM-Machines-Instructions" src="https://github.com/rashres/ARM-Machines-Instructions/assets/161265688/f0e698c2-f330-403a-b6c7-1c9058a8111b">
+
 
 UI Development:
 
